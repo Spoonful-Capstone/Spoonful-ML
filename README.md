@@ -3,7 +3,7 @@
 This is part of Bangkit 2024 Spoonful Capstone Projects. Here is our documentation of the ML Parts 
 
 ## Food Recognition
-The models is trained on [Indonesian Food Classification Dataset](https://universe.roboflow.com/bangkit/indonesian-food-pedsx) on Roboflow. The training stage can be seen on this [notebook](https://colab.research.google.com/drive/1yzXkvgT_XLaJKFXyoEk8weG-mdEFrFH-?usp=sharing) 
+The models is trained on [Indonesian Food Classification Dataset](https://universe.roboflow.com/bangkit/indonesian-food-pedsx) on Roboflow. The training stage can be seen on this [notebook](https://colab.research.google.com/drive/17vwft3NtaE2tfWTiHliZxBnqm7EDBV-R#scrollTo=v7jcy5ixYJeI) 
 
 ### Model Zoo 
 Naming convention file of models corresponds to the configuration (img_size)-(model_type)-(dense_layer)-(quantized?)-(dataset)
