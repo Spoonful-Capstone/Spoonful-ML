@@ -21,5 +21,5 @@ Naming convention file of models corresponds to the configuration (img_size)-(mo
 
 </center>
 
-## Food Recommender
+## Food Nutrition Predictions
 The models is trained on [Indonesian Food and Drink Nutrition Dataset](https://www.kaggle.com/datasets/anasfikrihanif/indonesian-food-and-drink-nutrition-dataset) on Kaggle. The training stage can be seen on this [notebook](https://colab.research.google.com/drive/1PNFcuP_6eNZCoIU2s4ZEzqBfs1wv77t-?usp=sharing#scrollTo=PE3KU_CDbs96) 
